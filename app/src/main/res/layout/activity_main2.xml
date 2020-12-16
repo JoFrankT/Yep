@@ -9,22 +9,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Activity 1!"
+        android:text="Activity 2!"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
 
         />
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="107dp"
-        android:layout_height="65dp"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginEnd="148dp"
-        android:layout_marginRight="148dp"
-        android:layout_marginBottom="285dp"
-        android:text="goTo2" />
 
 </RelativeLayout>
